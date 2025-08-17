@@ -2,6 +2,4 @@
 
 Go to the [article](https://medium.com/@c.giancaterino/stock-market-forecasting-with-nixtla-conformal-prediction-49874285634e)
 
-Go to the [Streamlit App](https://stockmarketforecastingcp.streamlit.app/) 
-
 Go to the [HuggingFace App](https://huggingface.co/spaces/towardsinnovationlab/stock_market_analysis_and_forecast)
